@@ -89,12 +89,9 @@ i.fa-stack-overflow:hover, i.fa-stack-overflow:active, i.fa-stack-overflow:focus
 	color: darkred;
 }
 
-i.fa-linkedin:hover, i.fa-linkedin:active, i.fa-linkedin:focus{
-	color: #007bb5;
-}
 
 i.fa-facebook:hover, i.fa-facebook:active, i.fa-facebook:focus{
-	color: #3b5998;
+	color: #111111;
 }
 
 i.fa-instagram:hover, i.fa-instagram:active, i.fa-instagram:focus{
